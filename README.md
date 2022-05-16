@@ -7,7 +7,7 @@
 [![XDA-ABHI](https://www.linkpicture.com/q/@HUNTER-GAMING.png)
 
 # XDA-ABHI Mirror Bot
-# Owner [XDA-ABHI](https://t.me/srshoruv7)
+# Owner [XDA-ABHI](https://t.me/XdaAbhi)
 ![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-tg-mirror-bot?color=green&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-tg-mirror-bot?style=flat)
@@ -151,7 +151,7 @@ Three buttons are already added of Drive Link, Index Link, and View Link, you ca
 
 # Contact Me
 
-[Telegram](https://t.me/nobita_o)
+[Telegram](https://t.me/XdaAbhi)
 
 # Credits
 
